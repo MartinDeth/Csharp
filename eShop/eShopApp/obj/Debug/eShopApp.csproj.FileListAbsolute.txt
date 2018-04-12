@@ -1,0 +1,12 @@
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\eShopApp.exe.config
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\eShopApp.exe
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\eShopApp.pdb
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\Services.dll
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\Services.pdb
+c:\users\asus\source\repos\eShop\eShopApp\obj\Debug\eShopApp.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\eShop\eShopApp\obj\Debug\eShopApp.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\eShop\eShopApp\obj\Debug\eShopApp.csproj.CopyComplete
+c:\users\asus\source\repos\eShop\eShopApp\obj\Debug\eShopApp.exe
+c:\users\asus\source\repos\eShop\eShopApp\obj\Debug\eShopApp.pdb
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\Entitites.dll
+c:\users\asus\source\repos\eShop\eShopApp\bin\Debug\Entitites.pdb
